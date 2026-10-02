@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+cleaned_earthquakes_backup.csv
+data/raw_earthquakes.csv
+data/cleaned_earthquakes.csv
